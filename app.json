@@ -55,7 +55,7 @@
     "PREFIX": {
       "description": "Command prefix(es), separated by commas (e.g. !,.,#)",
       "value": ".",
-      "required": false
+      "required": true
     },
     "SESSION": {
       "description": "Paste your WhatsApp session string here (Must start with FLASH-MD-WA-BOT;;;=> and got from our session generator)",
