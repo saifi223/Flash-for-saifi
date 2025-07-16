@@ -54,7 +54,7 @@
     },
     "PREFIX": {
       "description": "Command prefix(es), separated by commas (e.g. !,.,#)",
-      "value": "!",
+      "value": ".",
       "required": false
     },
     "SESSION": {
